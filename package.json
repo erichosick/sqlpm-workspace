@@ -1,0 +1,32 @@
+{
+  "name": "@sqlpm-util/sqlpm-workspace",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "description": "**sqlpm-workspace**: The pnpm workspace that contains all of our packages, projects, and utilities.",
+  "keywords": [
+    "typescript",
+    "node",
+    "workspace",
+    "javascript"
+  ],
+  "homepage": "https://github.com/erichosick/sqlpm-workspace",
+  "bugs": {
+    "url": "https://github.com/erichosick/sqlpm-workspace/issues",
+    "email": "erichosick@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erichosick/sqlpm-workspace"
+  },
+  "author": {
+    "name": "Eric Hosick",
+    "email": "erichosick@gmail.com",
+    "url": "https://github.com/erichosick"
+  },
+  "contributors": [],
+  "engines": {
+    "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
+  },
+  "scripts": {}
+}
